@@ -65,6 +65,14 @@ layout: compress
         </header>
 
         <div class="page-content" itemprop="articleBody">
+          {% if page.unsplash %}
+          <fig>
+            <image src="https://source.unsplash.com/{{page.unsplash}}/w=600" />
+            <figcaption><br/>Photo by <a href="https://unsplash.com/@{{page.image_username}}" target="_blank">
+              @{{page.image_username}}</a>
+            </a></figcaption>
+          </fig>
+          {% endif %}
           {% include anchor_headings.html html=content anchorClass="anchor-head" beforeHeading=true h_min=1 h_max=4 %}
           {% if page.tweet %}
           <p>Comments this article on 
@@ -86,7 +94,7 @@ layout: compress
     {% if page.next or page.previous %}
       {% include navigation.html %}
     {% endif %}
-
+    
     {% include footer.html %}
   </div>
 </body>

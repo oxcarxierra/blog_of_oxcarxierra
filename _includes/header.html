@@ -94,11 +94,13 @@
         | escape
     }}"
   />
-  {% if page.image %}
+  {% if page.unsplash %}
+  <meta property="og:image" content="{{ page.unsplash | absolute_url }}" />
+  {% else %} {% if page.image %}
   <meta property="og:image" content="{{ page.image | absolute_url }}" />
   {% else %}
   <meta property="og:image" content="{{ site.image | absolute_url }}" />
-  {% endif %}
+  {% endif %} {% endif %}
   <meta property="og:image:width" content="640" />
   <meta property="og:image:height" content="640" />
   <meta name="twitter:card" content="summary" />
@@ -127,11 +129,13 @@
         | escape
     }}"
   />
-  {% if page.image %}
+  {% if page.unsplash %}
+  <meta property="og:image" content="{{ page.unsplash | absolute_url }}" />
+  {% else %} {% if page.image %}
   <meta name="twitter:image" content="{{ page.image | absolute_url }}" />
   {% else %}
   <meta name="twitter:image" content="{{ site.image | absolute_url }}" />
-  {% endif %} {% feed_meta %}
+  {% endif %}{% endif %} {% feed_meta %}
   <link
     rel="apple-touch-icon"
     sizes="180x180"
@@ -155,8 +159,8 @@
     href="/assets/favicons/safari-pinned-tab.svg"
     color="#5bbad5"
   />
-  <meta name="apple-mobile-web-app-title" content="Jekyll Klise" />
-  <meta name="application-name" content="Jekyll Klise" />
+  <meta name="apple-mobile-web-app-title" content="Blog of oxcarxierra" />
+  <meta name="application-name" content="Blog of oxcarxierra" />
   <meta name="msapplication-TileColor" content="#da532c" />
   <meta name="theme-color" content="#2c2c2c" />
 
@@ -164,12 +168,15 @@
 
   <!-- for mathjax support -->
   {% if page.usemathjax %}
-    <script type="text/x-mathjax-config">
-      MathJax.Hub.Config({
-      TeX: { equationNumbers: { autoNumber: "AMS" } }
-      });
-    </script>
-    <script type="text/javascript" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+    TeX: { equationNumbers: { autoNumber: "AMS" } }
+    });
+  </script>
+  <script
+    type="text/javascript"
+    async
+    src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js?config=TeX-AMS-MML_HTMLorMML"
+  ></script>
   {% endif %}
-    
 </head>

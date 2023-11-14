@@ -1,0 +1,17 @@
+---
+title: 생각 기록하기, 보관하기
+permalink: /thoughts/
+layout: page
+excerpt: 완벽한 제 2의 뇌를 꿈꾸며
+---
+
+<!-- <h2 class="archive-tags">{{page.excerpt}}</h2> -->
+
+{%- for post in site.tags['thoughts'] -%}
+<article class="post-item" id="results-container">
+  <span class="post-item-date">{{ post.date | date: "%b %d, %Y" }}</span>
+  <h3 class="post-item-title">
+    <a href="{{ post.url }}">{{ post.title | escape }}</a>
+  </h3>
+</article>
+{%- endfor -%}
