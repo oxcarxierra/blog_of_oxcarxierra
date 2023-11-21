@@ -1,7 +1,7 @@
 # Site settings
 title: Blog of oxcarxierra # site title
 description: >- # site description
-  안녕하세요, 오승석입니다.
+  기록, 회고, 각오
 lang: en-US # default lang
 timezone: Asia/Korea # set your timezone
 image: assets/img/mainBanner.jpg # This image used for Open Graph more info https://ogp.me/
@@ -12,7 +12,7 @@ mode: light # default theme "dark" | "light"
 author:
   name: Seung Seok Oh # author name
   bio: >- # tell to the world
-    안녕하세요, 오승석입니다.
+    안녕하세요, 오승석입니다 👋
   username: oxcarxierra # general username
   github: oxcarxierra # github username
   twitter: # twitter username
@@ -22,7 +22,7 @@ author:
 
 # URL settings
 url: "https://www.oxcarxierra.com" #
-baseurl: "https://www.oxcarxierra.com"
+baseurl: ""
 permalink: /:title/
 google_analytics: # leave it blank if not wish
 fb_appid:
