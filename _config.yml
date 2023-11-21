@@ -14,11 +14,11 @@ author:
   bio: >- # tell to the world
     안녕하세요, 오승석입니다.
   username: oxcarxierra # general username
-  github: github_username # github username
-  twitter: twitter_username # twitter username
-  facebook: facebook_username # facebook username
-  email: your-email@email.com # email adress
-  avatar: /assets/img/avatar.jpg # change with your own avatar
+  github: oxcarxierra # github username
+  twitter: # twitter username
+  facebook: # facebook username
+  email: # email adress
+  avatar: # change with your own avatar
 
 # URL settings
 url: "https://www.oxcarxierra.com" #
