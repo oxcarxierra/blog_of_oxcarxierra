@@ -21,8 +21,8 @@ author:
   avatar: /assets/img/avatar.jpg # change with your own avatar
 
 # URL settings
-url: "https://klise.now.sh" #
-baseurl:
+url: "https://www.oxcarxierra.com" #
+baseurl: "https://www.oxcarxierra.com"
 permalink: /:title/
 google_analytics: # leave it blank if not wish
 fb_appid:
