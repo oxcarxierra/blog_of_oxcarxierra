@@ -11,8 +11,7 @@ mode: light # default theme "dark" | "light"
 # Profile settings
 author:
   name: Seung Seok Oh # author name
-  bio: >- # tell to the world
-    안녕하세요, 오승석입니다 👋
+  bio: 안녕하세요, 오승석입니다 👋 # tell to the world
   username: oxcarxierra # general username
   github: oxcarxierra # github username
   twitter: # twitter username
