@@ -6,6 +6,10 @@ excerpt:
 comments: false
 ---
 
+<!--
+**기록의 중요성을 믿고 이곳에서 실천하고자 합니다.**
+{: style="color:gray; font-size: 120%; text-align: center;"} -->
+
 ## 📚 학력 / Education
 
 과학영재학교 서울과학고등학교 28기 졸업 (2016.3 ~ 2019.2)  
