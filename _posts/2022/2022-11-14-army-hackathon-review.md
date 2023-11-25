@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[2022 군장병 공개 SW 온라인 해커톤] 과학기술정보통신부 장관상 수상 후기"
-tags: [review, development, 2022]
+tags: [review, development]
 date: 2022-11-14 19:41:15
 image: "https://i.imgur.com/kLfQaQh.png"
 ---
@@ -18,7 +18,7 @@ image: "https://i.imgur.com/kLfQaQh.png"
 
 ## 해커톤 참가
 
-[국방오픈소스아카데미(OSAM) 홈페이지](https://osam.kr/)를 해커톤 이전에 발견을 해서, 2022년 해커톤도 열리기를 기대하고 있던 중에 대회 공고가 올라왔고 자연스럽게 참여하게 되었다.
+[국방오픈소스아카데미(OSAM) 홈페이지](https://osam.kr/)를 해커톤 이전에 발견을 해서년 해커톤도 열리기를 기대하고 있던 중에 대회 공고가 올라왔고 자연스럽게 참여하게 되었다.
 
 ## 참가자 선발 과정
 
