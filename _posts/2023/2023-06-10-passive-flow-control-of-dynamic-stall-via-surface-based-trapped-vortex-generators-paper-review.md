@@ -1,6 +1,6 @@
 ---
 title: "[Paper Review] Passive Flow Control of Dynamic Stall via Surface-Based Trapped Vortex Generators"
-tags: ["Paper Review", "Engineering"]
+tags: ["Engineering"]
 date: 2023-06-10 15:17:56
 ---
 

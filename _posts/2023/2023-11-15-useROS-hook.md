@@ -2,7 +2,7 @@
 layout: post
 title: useROS 커스텀 훅으로 React에서 ROSlibjs 사용하기
 date: 2023-11-08 17:40:20 +0900
-tags: [development, react, robotics]
+tags: ["Development", "Robotics"]
 usemathjax: false
 ---
 
