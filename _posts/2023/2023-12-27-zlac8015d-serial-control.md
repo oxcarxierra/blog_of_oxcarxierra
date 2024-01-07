@@ -1,7 +1,7 @@
 ---
 layout: post
 title: RS485 통신으로 DC모터 제어하기
-tags: ["Robotics"]
+tags: [Tech, Robotics]
 usemathjax: false
 unsplash: "iVfOFaEghqU"
 image_username: "ubahnverleih"

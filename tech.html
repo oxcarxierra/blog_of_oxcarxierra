@@ -1,13 +1,13 @@
 ---
-title: THOUGHTS
-permalink: /thoughts/
+title: TECH
+permalink: /tech/
 layout: page
-excerpt: 회고하기, 생각 기록하기
+excerpt: 
 ---
 
 <h2 class="archive-tags">{{page.excerpt}}</h2>
 
-{%- assign all_posts = site.tags['Thoughts'] | concat: site.tags['Monthly Review'] | concat: site.tags['Annual Review']-%}
+{%- assign all_posts = site.tags['Tech']  -%}
 {%- assign sorted_posts = all_posts | sort: 'date' | reverse -%}
 
 {%- for post in sorted_posts -%}

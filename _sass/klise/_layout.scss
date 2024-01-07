@@ -262,6 +262,15 @@
   }
 }
 
+// Content
+.posts-see-more {
+  text-align:right;
+  font-size: $base-font-size*1.1;
+  font-weight: 700;
+  margin-top: 10px;
+  color: $black;
+}
+
 // Footer
 .footer {
   margin-top: 8em;

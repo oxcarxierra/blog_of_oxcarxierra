@@ -10,9 +10,10 @@
   url: /thoughts/
   external: false
 
-- title: Archive
-  url: /archive/
+- title: Tech
+  url: /tech/
   external: false
+  
 # Example:
 # - title: github
 #   url: https://github.com/piharpi/jekyll-klise

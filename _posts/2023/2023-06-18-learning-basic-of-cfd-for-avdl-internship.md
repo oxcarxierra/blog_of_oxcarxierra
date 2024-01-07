@@ -1,6 +1,6 @@
 ---
 title: "[AVDL 인턴] CFD로 Airfoil의 Lift, Drag 계산"
-tags: ["Engineering"]
+tags: [Tech, Engineering]
 date: 2023-06-18 22:49:36
 ---
 
