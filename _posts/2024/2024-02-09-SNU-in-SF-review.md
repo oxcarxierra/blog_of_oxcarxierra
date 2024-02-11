@@ -2,10 +2,10 @@
 title: SNU in San Fancisco 후기 - How to adopt "aggresive" mind
 tags: [Thoughts]
 usemathjax: false
-unsplash: 
-image_username: 
 ---
-
+<fig>
+<img src="https://i.imgur.com/cvoM2Zw.jpeg">
+</fig>
 
 > 1/15 ~ 2/3 SNU in San Francisco : Innovation and Social Justice 
 
