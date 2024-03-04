@@ -1,5 +1,5 @@
 ---
-title: SNU in San Fancisco 후기 - How to adopt "aggresive" mind
+title: SNU in San Fancisco 후기 - How to adopt "Aggresive" mind
 tags: [Thoughts]
 usemathjax: false
 ---
