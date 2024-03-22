@@ -1,5 +1,5 @@
 ---
-title: 안녕하세요, 오승석입니다👋
+title: 오승석 / SEUNG SEOK OH
 permalink: /about/
 layout: page
 excerpt:
@@ -18,32 +18,34 @@ comments: false
 **서울대학교 공과대학 기계공학부 재학중 (2019.3 ~)**  
  _Seoul National University, Department of Mechanical Engineering_
 
-<!-- 서울대학교 공과대학 항공우주공학과 복수전공 (2021.3 ~)  
+<!-- 서울대학교 공과대학 항공우주공학과 복수전공 (2021.3 ~)
  _Seoul National University, Department of Aerospace Engineering_ -->
-
 
 ---
 
 ## ✒️ 약력 / History
 
 **세코어 로보틱스 Robotics & Software Engineer (2023.10 ~)**  
-_Robotics & Software Engineer @ Sequor Robotics_ 
+_Robotics & Software Engineer @ Sequor Robotics_
 
 **2022 군장병 공개SW 온라인 해커톤 과학기술정보통신부 장관상**  
-_Minister of Science and ICT Award, 2022 Military OpenSW Online Hackathon_  
-- AI 기반 병영 부조리 사고 예측 및 예방 솔루션 \<TAPA\> 기획 및 개발
+_Minister of Science and ICT Award, 2022 Military OpenSW Online Hackathon_
+
+-   AI 기반 병영 부조리 사고 예측 및 예방 솔루션 \<TAPA\> 기획 및 개발
 
 **프릭스 헬스케어 Frontend Engineer (2021.3 ~ 2021.10)**  
 _Fronts-end Engineer @ Friggs Healthcare, Co., Ltd._
 
 **한국공학한림원 차세대공학리더 YEHS (2021.2 ~)**  
 _The National Academy of Engineering of Korea Young Engineers Honor Society_
-- 2024 학술교류부 차장  
 
-**서울대학교 자작 자동차동아리 RunToYou (2019.3 ~ 2021.8)**    
-_SNU Racing Team RunToYou_  
-- 2019 KSAE 대학생자작자동차대회 EV부문 출전  
-- 2020 KSAE 대학생자작자동차대회 Baja부문 드라이버 출전  
+-   2024 학술교류부 차장
+
+**서울대학교 자작 자동차동아리 RunToYou (2019.3 ~ 2021.8)**  
+_SNU Racing Team RunToYou_
+
+-   2019 KSAE 대학생자작자동차대회 EV부문 출전
+-   2020 KSAE 대학생자작자동차대회 Baja부문 드라이버 출전
 
 **대통령과학장학금 물리부문 장학생 (2019.3 ~)**  
 _Presidential Science Scholarship in Physics_
